@@ -6,7 +6,7 @@ O jogo do Sonic Running é um jogo baseado em navegador em que os jogadores cont
 
 Como Jogar:
 Clone este repositório para o seu computador local.
-Abra o arquivo index.html em seu navegador da web para iniciar o jogo.
+Abra o arquivo index.html com o Live server em seu navegador da web para iniciar o jogo.
 Controle os pulos do Sonic pressionando qualquer tecla.
 Evite os obstáculos e tente sobreviver o máximo possível.
 
